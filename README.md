@@ -15,4 +15,4 @@ Required Packages (NOT BUILT-IN):
  - pyaudio==`0.2.11`
  - speechrecognition==`3.8.1`
  - requests==`2.24.0`
- - beautifulsoup4==`4 4.9.1`
+ - beautifulsoup4==`4.9.1`
